@@ -1,36 +1,28 @@
 ## Privacy Policy
 
-This Privacy Policy governs the manner in which Geamos Company Limited ("the Company") collects, uses, maintains, and discloses information collected from users ("Users") of the Geamos courier services ("the Services").
+This Privacy Policy governs the use of the GEAMOS courier tracking services provided by GEAMOS Company Limited.
 
 ## 1. Information Collection
 
-1.1 Personal Identification Information:
+1.1 Tracking Information:
 
-    The Company may collect personal identification information from Users in various ways, including but not limited to, when Users visit our website, register on the website, place an order, and in connection with other activities, services, features, or resources we make available.
-
-1.2 Non-personal Identification Information:
-
-    The Company may collect non-personal identification information about Users whenever they interact with our Services. Non-personal identification information may include the browser name, the type of computer, and technical information about Users' means of connection to our Services.
+    The Company collects tracking information related to shipments for the sole purpose of providing Users with real-time tracking updates. This information may include tracking numbers, shipment status, and delivery updates.
 
 ## 2. Information Use
 
-2.1 The Company may collect and use Users' personal information for the following purposes:
-
-    To process orders: We may use the information Users provide about themselves when placing an order only to provide service to that order.
-    To improve customer service: Information provided helps us respond to customer service requests and support needs more efficiently.
-    To send periodic emails: We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.
+2.1 The Company uses tracking information solely for the purpose of enabling Users to track their shipments within the app. No personal information is collected, stored, or used in relation to the tracking of shipments.
 
 ## 3. Information Protection
 
-3.1 The Company adopts appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure, or destruction of Users' personal information and data stored on our Services.
+3.1 The Company adopts appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure, or destruction of any tracking information collected from Users.
 
 ## 4. Information Disclosure
 
-4.1 The Company does not sell, trade, or rent Users' personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers for the purposes outlined above.
+4.1 The Company does not sell, trade, or rent any tracking information collected from Users to others. Tracking information is strictly used for the purpose of providing shipment tracking services within the app.
 
 ## 5. Changes to this Privacy Policy
 
-5.1 The Company has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect.
+5.1 The Company has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are protecting the information collected.
 
 ## 6. Your Acceptance of these Terms
 
